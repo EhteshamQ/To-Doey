@@ -25,9 +25,7 @@ class MyApp extends StatelessWidget {
 }
 
 class Tasks extends ChangeNotifier {
-  List<Task> _list = [
-    Task(name: 'EAT FOOD'),
-  ];
+  List<Task> _list = [];
 
   UnmodifiableListView<Task> get list {
     return UnmodifiableListView(_list);
