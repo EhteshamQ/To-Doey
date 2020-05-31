@@ -1,6 +1,6 @@
 # todoey
 
-A TO DO Application
+A Simple TO-DO Application to Keep Track of All your Activites to Complete
 
 ## Getting Started
 
